@@ -1,6 +1,7 @@
 # E-commerce Sales Performance Dashboard(DATA ANALYSIS)
 ## Sales Data Overview
-## Sales Data Analysis
+sales data spanning from January 2019 to January 2021. This chart illustrates significant fluctuations in sales volume across different periods. A pronounced peak is observed in January 2021, indicating a surge in orders, possibly due to a seasonal effect or a marketing campaign. The overall trend shows considerable volatility in sales, with numerous spikes and dips throughout the time frame.
+
 ## Graph Overview:
 
 Top Graph: Displays the sum of sales over time from January 2019 to January 2021, showing trends and peaks.
